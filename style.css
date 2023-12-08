@@ -7,3 +7,18 @@ body{
     background-color: grey;
     color: white;
 }
+header{
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+nav > a{
+    flex-direction: row;
+    color: white;
+    text-decoration: none;
+    background-color: black;
+    padding: 20px;
+    margin-right: 50px;
+    margin-left: 50px;
+}

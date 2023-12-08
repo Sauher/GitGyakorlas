@@ -1,5 +1,6 @@
 body{
     background-color: ghostwhite;
+    font-weight: bold;
 }
 .container{
     background-color: rgb(78, 78, 78);
@@ -23,8 +24,20 @@ nav > a{
     padding: 20px;
     margin-right: 50px;
     margin-left: 50px;
+    border: 1px white solid;
+    font-size: 20px;
 }
 nav > a:hover{
     background-color: gray;
     color: black;
+    border-radius: 10%;
+}
+p{
+    font-size: 20px;
+}
+h2{
+    font-size: 40px;
+}
+h1{
+    font-size: 60px;
 }
